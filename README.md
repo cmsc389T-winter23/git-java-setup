@@ -24,4 +24,10 @@ Edward Clavijo
 
 Aaron Hetzer
 
+<<<<<<< HEAD
 Dan Xu
+=======
+Uyen Nguyen
+
+Evan Guenterberg
+>>>>>>> 433a77309e7ffc80056945272b4953dddb593721
