@@ -24,6 +24,8 @@ Edward Clavijo
 
 Aaron Hetzer
 
+Dante Idiagbonya
+
 <<<<<<< HEAD
 Dan Xu
 =======
