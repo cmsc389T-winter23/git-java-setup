@@ -2,7 +2,7 @@
 
 Add your name below. Make sure to add a line between names!
 
-Octo Cat  
+Octo Cat
 Nathan Perry
 
 Fernando Gonzales-Vigil
@@ -13,3 +13,9 @@ Justin Pratama
 
 Aman Thanvi
 
+
+Fatima Chariwala
+
+William He
+
+Sonia Sandler
