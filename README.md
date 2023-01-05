@@ -29,9 +29,6 @@ Aaron Hetzer
 
 Dante Idiagbonya
 
-<<<<<<< HEAD
-Dan Xu
-=======
 Uyen Nguyen
 
 Evan Guenterberg
@@ -44,4 +41,4 @@ Akiva Miller
 
 Ansh Vanam
 
->>>>>>> 432a77309e7ffc80056945272b4953dddb593721
+Roshan Mathew
