@@ -42,3 +42,5 @@ Akiva Miller
 Ansh Vanam
 
 Roshan Mathew
+
+Syed Zaidi
